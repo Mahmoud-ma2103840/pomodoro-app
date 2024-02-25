@@ -1,7 +1,7 @@
 # Pomodoro Timer
 
 ## Description
-The Pomodoro Timer is a desktop application designed to help improve productivity by using the Pomodoro technique. Created in July 2021, this application provides a simple and effective way to manage time with work sessions and breaks, promoting sustained concentration and preventing burnout.
+The Pomodoro Timer is a desktop application designed to help improve productivity by using the Pomodoro technique. Created in May 2021, this application provides a simple and effective way to manage time with work sessions and breaks, promoting sustained concentration and preventing burnout.
 
 ## Features
 - Simple and attractive tomato-themed GUI.
